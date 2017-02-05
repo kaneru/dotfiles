@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Better CoffeeScript",
+		"Boxy Theme",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"Sass"
+	]
+}
