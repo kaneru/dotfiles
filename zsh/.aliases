@@ -1,0 +1,27 @@
+EDITOR=subl
+
+# Shortcuts
+
+alias _="sudo"
+alias rr="rm -rf"
+alias h='history'
+alias b="bundle"
+alias zshrc='$EDITOR ~/.zshrc'
+
+# Global aliases
+
+alias -g G='| grep'
+alias -g H='| head'
+alias -g T='| tail'
+alias -g CP='| pbcopy'
+
+# Navigation
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+# Misc
+
+alias speedtest="wget -O /dev/null http://speedtest.tele2.net/100MB.zip"
+alias reset_finder='rm ~/Library/Preferences/com.apple.finder.plist && killall -HUP Finder'
