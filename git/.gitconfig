@@ -1,0 +1,10 @@
+[user]
+  name = kaneru
+  email = anatoly.gulyaev@gmail.com
+[filter "lfs"]
+  clean = git-lfs clean %f
+  smudge = git-lfs smudge %f
+  required = true
+[core]
+  editor = /usr/bin/vim
+  pager = diff-so-fancy | less --tabs=4 -RFX
