@@ -1,6 +1,6 @@
 [user]
   name = kaneru
-  email = anatoly.gulyaev@gmail.com
+  email = kaneru@protonmail.com
 [filter "lfs"]
   clean = git-lfs clean %f
   smudge = git-lfs smudge %f
