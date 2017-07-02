@@ -11,4 +11,5 @@ source /Users/$USER/.dotfiles/zsh/.secrets
 
 export PATH="/usr/local/bin:$PATH"
 export PATH="$HOME/.rbenv/bin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
 eval "$(rbenv init -)"
