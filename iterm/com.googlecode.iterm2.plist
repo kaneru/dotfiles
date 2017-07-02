@@ -407,11 +407,11 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>269 284 606 456 0 0 1366 745 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>373 283 620 392 0 0 1366 768 </string>
+	<string>373 265 620 392 0 0 1366 745 </string>
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>279 162 796 473 0 0 1366 745 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 4 1361 741 0 0 1366 745 </string>
+	<string>47 21 1319 724 0 0 1366 745 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>165 4 665 452 0 0 1366 745 </string>
 	<key>New Bookmarks</key>
@@ -1748,6 +1748,8 @@
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>487934462.49929899</real>
+	<key>PasteTabToStringTabStopSize</key>
+	<integer>4</integer>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1792,11 +1794,11 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-02-05T08:30:20Z</date>
+	<date>2017-04-20T10:42:47Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
-	<true/>
+	<false/>
 	<key>TabStyle</key>
 	<integer>1</integer>
 	<key>TabViewType</key>
@@ -1810,7 +1812,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.13</string>
+	<string>3.0.15</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
