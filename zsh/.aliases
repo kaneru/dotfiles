@@ -25,3 +25,4 @@ alias ....='cd ../../..'
 
 alias speedtest="wget -O /dev/null http://speedtest.tele2.net/100MB.zip"
 alias reset_finder='rm ~/Library/Preferences/com.apple.finder.plist && killall -HUP Finder'
+alias weather='curl wttr.in/Yakutsk'
