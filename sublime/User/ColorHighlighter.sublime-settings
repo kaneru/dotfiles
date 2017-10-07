@@ -1,5 +1,6 @@
 {
+	"enabled": true,
 	"ha_icons": true,
 	"ha_style": "text",
-	"style": "disabled"
+	"style": "underlined_strippled"
 }
