@@ -13,3 +13,4 @@ export PATH="/usr/local/bin:$PATH"
 export PATH="$HOME/.rbenv/bin:$PATH"
 export PATH="/usr/local/sbin:$PATH"
 eval "$(rbenv init -)"
+eval $(thefuck --alias)
