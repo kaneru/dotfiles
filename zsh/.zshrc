@@ -1,6 +1,6 @@
 export ZSH=/Users/$USER/.oh-my-zsh
 
-ZSH_THEME="crunch"
+ZSH_THEME="cloud"
 
 plugins=(git rails ruby osx fasd)
 
